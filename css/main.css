@@ -11,3 +11,19 @@ h1 {
 p {
     color: #dddddd;
 }
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul {
+    align-items: center;
+    justify-content: space-between;
+}

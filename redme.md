@@ -13,12 +13,3 @@ sdfsgfsgfdgdfs
 
 -Paso 1
 rwerwemfklgnfds
-
-## Subtítulo
-
-asfnjafnsakdfnksdfksfafda
-
--Item
--Item
--Item
--Item
